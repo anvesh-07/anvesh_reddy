@@ -108,7 +108,7 @@ const Home = () => {
                 </Link>
 
                 <Link
-                  href="/anvesh_resume.pdf"
+                  href="/Anvesh_Reddy_Resume.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group px-8 py-4 bg-transparent border-2 border-gray-300 text-gray-700 rounded-xl hover:border-purple-600 hover:text-purple-600 font-semibold transition-all duration-300 transform  flex items-center gap-2"
